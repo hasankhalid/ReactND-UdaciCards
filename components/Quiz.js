@@ -91,7 +91,7 @@ class Quiz extends Component {
                 <Text style={styles.answer}>There are no cards to quiz you from</Text>
               </View>
               <View style={styles.buttonWrapper}>
-                <Button style={styles} color={blue} text={'Back to Deck'} onPress={() =>  this.props.navigation.navigate('DeckView', { deck: deck })}/>
+                <Button style={styles} color={blue} text={'Back to Deck'} onPress={() =>  this.props.navigation.goBack({ deck: deck })}/>
               </View>
             </View>
           :
