@@ -1,0 +1,16 @@
+//Utility file containing colors taken from bootflat,org
+
+export const purple = '#5856d6'
+export const orange = '#ff9500'
+export const red = '#9D2933'
+export const rose = '#5D3F6A'
+export const blue = '#007aff'
+export const green = '#26A65B'
+export const yellow = '#F5AB35'
+export const silver = '#BFBFBF'
+export const teal = '#6C7A89'
+export const gray = '#95A5A6'
+export const white = '#FFFFFF'
+export const black = '#5b5b5b'
+export const pink = '#ff2d55'
+export const tealBlue = '#5ac8fa'

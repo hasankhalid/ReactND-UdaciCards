@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "orientation": "portrait",
+    "name": "UdaciCards",
+    "description": "Your companion for exam preparation",
+    "slug": "udacicards",
+    "version": "1.0",
+    "icon": "https://d30y9cdsu7xlg0.cloudfront.net/png/20461-200.png",
+    "notification": {
+      "icon": "https://d30y9cdsu7xlg0.cloudfront.net/png/20461-200.png"
+    },
+    "ios": {
+      "bundleIdentifier": "org.udacicards.exp"
+    }
+  }
+}
